@@ -1,1 +1,1 @@
-This repo contains C projects
+This repo contains projects on C
